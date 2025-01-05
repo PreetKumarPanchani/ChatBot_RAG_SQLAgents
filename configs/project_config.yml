@@ -1,0 +1,7 @@
+langsmith:
+  tracing: 'true'
+  project_name: 'Chatbot Using RAG and SQLAgents in Langchain'
+
+memory:
+  directory: memory
+
